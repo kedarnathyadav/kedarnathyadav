@@ -1,12 +1,15 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kedarnathyadav.kedarnathyadav" />
-<img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kedarnath+Yadav+D;" />
 </h1>
 
-<h3 align="center">A Java Developer on this planet Earth</h3>
+<h3 align="center">A Java Developer on this planet Earth
+    <br>
+    <img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+</h3>
 
 <br/>
 
