@@ -1,3 +1,4 @@
+<img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kedarnathyadav.kedarnathyadav" />
 
 <h1 align="center">
